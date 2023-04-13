@@ -1,1 +1,1 @@
-from src.livecheck import Liveness
+from liveness.livecheck import Liveness
