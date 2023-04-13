@@ -1,0 +1,4 @@
+include Liveness/data_io/*
+include Liveness/model_lib/*
+include Liveness/anti_spoof_models/*
+include Liveness/detection_model/*

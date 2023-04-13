@@ -4,11 +4,25 @@ README.md
 pyproject.toml
 setup.cfg
 setup.py
+Liveness/__init__.py
 Liveness/anti_spoof_predict.py
 Liveness/generate_patches.py
 Liveness/livecheck.py
-Liveness/utility copy.py
 Liveness/utility.py
+Liveness/anti_spoof_models/2.7_80x80_MiniFASNetV2.pth
+Liveness/anti_spoof_models/4_0_0_80x80_MiniFASNetV1SE.pth
+Liveness/anti_spoof_models/__init__.py
+Liveness/data_io/__init__.py
+Liveness/data_io/dataset_folder.py
+Liveness/data_io/dataset_loader.py
+Liveness/data_io/functional.py
+Liveness/data_io/transform.py
+Liveness/detection_model/Widerface-RetinaFace.caffemodel
+Liveness/detection_model/__init__.py
+Liveness/detection_model/deploy.prototxt
+Liveness/model_lib/MiniFASNet.py
+Liveness/model_lib/MultiFTNet.py
+Liveness/model_lib/__init__.py
 image_liveness.egg-info/PKG-INFO
 image_liveness.egg-info/SOURCES.txt
 image_liveness.egg-info/dependency_links.txt
